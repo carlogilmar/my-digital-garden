@@ -23,5 +23,7 @@
     - Test equality to help you to remove constansts and duplication
     - Equality is a check in every test if you implement this in your tests
     - Reduce coupling in your tests
+    - Don't forget remove duplication
+6. Write the tests you wish you had.
 
 <img width="2460" height="2156" alt="image" src="https://github.com/user-attachments/assets/59acccf7-3e6f-4fa9-93a9-6abc34f0d4bc" />
