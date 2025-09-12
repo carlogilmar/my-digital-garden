@@ -18,6 +18,8 @@ TDD Cycle
 4. Run the tests and succeed
 5. Refactor to **remove duplication**
 
+<img width="2460" height="1356" alt="image" src="https://github.com/user-attachments/assets/2a92acfc-068b-4a49-b485-1b359bf4a2ac" />
+
 Quick Notes:
 1. Baby steps and gradually increment steps
 2. Fake it: return constant and then replace
