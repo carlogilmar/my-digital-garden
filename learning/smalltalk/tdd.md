@@ -3,8 +3,6 @@
 > [!NOTE]
 > Write a test. Make it run. Make it right
 
-`Considerations`
-
 ## TDD Cycle
 
 0. Create your **list of test case scenarios**
