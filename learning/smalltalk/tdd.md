@@ -17,13 +17,24 @@
 3. Make a **little change**
     - Gradually generalized the working code, replacing constants with variables
     - Compile quickly using stubs
-    - Fake it: return constant and then replace
+    - Fake it: return constant (temporary) and then replace.
 4. Run the tests and **succeed**
 5. Refactor to **remove duplication**
+    - Equality is foundational in tests
     - Test equality to help you to remove constansts and duplication
     - Equality is a check in every test if you implement this in your tests
+    - Encapsulation isn’t an upfront design decision — tests drive you to hide internals.
     - Reduce coupling in your tests
     - Don't forget remove duplication
-6. Write the tests you wish you had.
+    - Refactor will guide you to discover new tests to implement
+    - Let tests expose the need for a common abstraction
+
+TDD Discipline
+- Let the system telling you what you need to consider
+- Write the tests you wish you had.
+- Don’t abstract until duplication hurts.
+- Don’t over-engineer based on assumptions about future needs.
+- Trust the TDD cycle to force the right design at the right time.
+- TDD is an iterative tool to discover how to well-describe problems.
 
 <img width="2460" height="2156" alt="image" src="https://github.com/user-attachments/assets/59acccf7-3e6f-4fa9-93a9-6abc34f0d4bc" />
