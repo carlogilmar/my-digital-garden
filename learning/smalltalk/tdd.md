@@ -33,7 +33,8 @@
     - Refactor will guide you to discover new tests to implement
     - Let tests expose the need for a common abstraction
     - Factory methods are about controlling object boundaries so your tests and clients don’t couple to constructors.
-
+    - Don’t kill duplication immediately. Refactoring removes duplication step by step
+	
 <img width="1200" height="630" alt="social-media-post-1200x630 (1)" src="https://github.com/user-attachments/assets/9232b572-093b-4d64-bd25-e7d91e7adf2d" />
 
 ## TDD Discipline
@@ -50,3 +51,9 @@
 - Tests first reveal duplication, then push for abstraction.
 - If you try to design the whole abstraction on day one, you’ll overthink and risk the wrong design.
 - If you refactor relentlessly, good design will emerge.
+- TDD isn’t about writing perfect code the first time.
+- It’s about growing code in tiny steps, while systematically strangling duplication.
+- If you trust the cycle, good design will emerge, even if you didn’t see it upfront.
+- TDD naturally introduces new abstractions when the problem demands it.
+- Wait for the test pressure to justify new abstractions.
+- Abstraction is not the starting point, it’s the reward of disciplined TDD.
