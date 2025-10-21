@@ -63,5 +63,13 @@ Pharo builds on all of the above and adds:
 - 🧠 Moldable Development: Build custom tools for understanding your domain, not just for manipulating code.
 - 🖼️ Domain-specific inspectors: Replace boring object views with charts, dashboards, visual trees — whatever fits your problem.
 - 📈 Self-aware systems: Systems that expose their internals to you in a friendly, useful way.
-
   
+# Smalltalk for classic programmers
+
+`Glamorous Toolkit GT - sculptural development`
+- GT is the IDE but also is the system. The Pharo image contains all the code needed running.
+- GT it's a very different approach of develop software. It's a live and visual enviroment, there is no comparation with classical IDEs.
+- Instead of have a bunch of files with class definitions, you'll have a way of visuallize objects and its definition in tables of methods and instance variables.
+- The fact of have  a live system is the possibility of explore the system itself in real time, you can add breakpoints, look the class implementation, look for implementors, look for senders, open a notebook and start to craft your code.
+- It's impressive see how easy is to create things as you need, the GT help you to craft all what you need very easy, it feels like TDD spirit.
+
