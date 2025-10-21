@@ -81,7 +81,8 @@ Pharo builds on all of the above and adds:
 
 ---
 
-Tecniques 
+### Tecniques 
+
 `Code Exploration`
 - `Causal loops`: chain of events between objects by message passing.
 - `XRay analysis`: use the breakpoints to inspect live objects with live states.
