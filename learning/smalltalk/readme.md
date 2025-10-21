@@ -73,3 +73,10 @@ Pharo builds on all of the above and adds:
 - The fact of have  a live system is the possibility of explore the system itself in real time, you can add breakpoints, look the class implementation, look for implementors, look for senders, open a notebook and start to craft your code.
 - It's impressive see how easy is to create things as you need, the GT help you to craft all what you need very easy, it feels like TDD spirit.
 
+`Moldable Development Skills`
+- Follow the messages: look at the objects and its message passing, there should be always a method to receive that messages.
+- Inspect everything, inspect the objects, the classes.
+- Use the lepiter notebook to craft what you need.
+- The playground can send messages to the current object.
+
+
