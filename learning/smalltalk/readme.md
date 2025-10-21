@@ -81,19 +81,20 @@ Pharo builds on all of the above and adds:
 
 ---
 
-### Tecniques 
+### My Own Mental Models 
 
 `Code Exploration`
-- `Causal loops`: chain of events between objects by message passing.
-- `XRay analysis`: use the breakpoints to inspect live objects with live states.
-
-`Code Creation`
-- `Open-heart surgery`: use the playgrounds to explore the object by using code. You can modify the live objects as you need.
-
-`Coder Attitude`
-- `Black Holes`: identify large and complex gaps.
-- `Turtle Steps`: go slow and step by step. Don't try to run before learn how to walk.
-- `White belt`: be a humble begginer again.
-- `Retrospective Maps`: look the past and build the journey you'd like to have. Recognize what works better for you.
+- `Causal loops`: Traceable runtime behavior that emerges from message passing between live objects — causality lives in the interaction
+- `XRay analysis`: Pause and examine the internal state of objects mid-flight, inspecting their variables, messages, and behavior in situ.
+- `Open-heart surgery`: Exploring or patching objects directly from the Playground.
+- `Tinkering Toolkit`: Use Lepiter notebooks and playgrounds to run small, safe experiments on a live system
+- `Moldable microscope`*: Creating a custom view to visualize what matters in your domain.
+- `Cognitive Cartography`*: Mapping out mental models of how a part of the system behaves.
+  
+`Exploratory Programming`
+- `Black Holes`: Black Holes are regions of the system or knowledge space that feel massive, intimidating, or undefined. Instead of rushing in, mark them, orbit them, and slowly illuminate their boundaries.
+- `Turtle Steps`: This is the technique of moving deliberately and observably, making small, reversible changes and inspecting the results. It’s how you build deep understanding without overwhelm.
+- `White belt`: White Belt is a mindset of humility and openness — letting go of the need to know, so that you can truly observe, ask, and grow. It reminds you that mastery begins with surrender.
+- `Retrospective Maps`: Retrospective Maps are a way to chart where you’ve been, not just to document it, but to redesign it. By mapping the steps you took — or wish you’d taken — you can recognize patterns, refine your process, and gain meta-awareness.
 
 
