@@ -83,10 +83,11 @@ Pharo builds on all of the above and adds:
 
 Tecniques 
 `Code Exploration`
-- Causal loops: chain of events between objects by message passing.
-- XRay analysis: use the breakpoints to inspect live objects with live states.
+- `Causal loops`: chain of events between objects by message passing.
+- `XRay analysis`: use the breakpoints to inspect live objects with live states.
+
 `Code Creation`
-- Open-heart surgery: use the playgrounds to explore the object by using code. You can modify the live objects as you need.
+- `Open-heart surgery`: use the playgrounds to explore the object by using code. You can modify the live objects as you need.
 
 `Coder Attitude`
 - `Black Holes`: identify large and complex gaps.
