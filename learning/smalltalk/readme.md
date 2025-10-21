@@ -79,4 +79,19 @@ Pharo builds on all of the above and adds:
 - Use the lepiter notebook to craft what you need.
 - The playground can send messages to the current object.
 
+---
+
+Tecniques 
+`Code Exploration`
+- Causal loops: chain of events between objects by message passing.
+- XRay analysis: use the breakpoints to inspect live objects with live states.
+`Code Creation`
+- Open-heart surgery: use the playgrounds to explore the object by using code. You can modify the live objects as you need.
+
+`Coder Attitude`
+- `Black Holes`: identify large and complex gaps.
+- `Turtle Steps`: go slow and step by step. Don't try to run before learn how to walk.
+- `White belt`: be a humble begginer again.
+- `Retrospective Maps`: look the past and build the journey you'd like to have. Recognize what works better for you.
+
 
