@@ -93,6 +93,7 @@ Pharo builds on all of the above and adds:
   
 `Exploratory Programming`
 - `Black Holes`: Black Holes are regions of the system or knowledge space that feel massive, intimidating, or undefined. Instead of rushing in, mark them, orbit them, and slowly illuminate their boundaries.
+- `Rabbit Holes`: Spaces in the system that feels curious and it's a place to understand things. 
 - `Turtle Steps`: This is the technique of moving deliberately and observably, making small, reversible changes and inspecting the results. It’s how you build deep understanding without overwhelm.
 - `White belt`: White Belt is a mindset of humility and openness — letting go of the need to know, so that you can truly observe, ask, and grow. It reminds you that mastery begins with surrender.
 - `Retrospective Maps`: Retrospective Maps are a way to chart where you’ve been, not just to document it, but to redesign it. By mapping the steps you took — or wish you’d taken — you can recognize patterns, refine your process, and gain meta-awareness.
