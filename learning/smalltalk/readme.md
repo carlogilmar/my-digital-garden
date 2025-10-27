@@ -99,6 +99,8 @@ Pharo builds on all of the above and adds:
 - Everything happens by message passing.
 - The system itself is live during development.
 - Live exploration through live states.
+- Systems should be grown not built.
+- You model reality as interconnected networks of responsibility.
 
 `Code Exploration`
 
@@ -114,7 +116,7 @@ Pharo builds on all of the above and adds:
 - `Cognitive Cartography`: Mapping out mental models of how a part of the system behaves.
 - `Shell Listening`
 - `Storm Sketching`
--
+- `Seasons`
 
 `Exploratory Programming`
 
