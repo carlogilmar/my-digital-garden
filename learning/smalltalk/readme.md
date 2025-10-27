@@ -101,6 +101,7 @@ Pharo builds on all of the above and adds:
 - Live exploration through live states.
 - Systems should be grown not built.
 - You model reality as interconnected networks of responsibility.
+- Develop a new intuition. 
 
 `Code Exploration`
 
