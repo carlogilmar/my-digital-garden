@@ -118,6 +118,7 @@ Pharo builds on all of the above and adds:
 - `Shell Listening`
 - `Storm Sketching`
 - `Seasons`
+- `Slow Motion`
 
 `Exploratory Programming`
 
