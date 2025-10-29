@@ -1,3 +1,5 @@
+<img width="2732" height="1061" alt="Ilustración_sin_título" src="https://github.com/user-attachments/assets/d06e6955-35d2-4877-b58d-7e026aee4954" />
+
 # Learning Smalltalk
 
 <img width="2388" height="1668" alt="Ilustración_sin_título" src="https://github.com/user-attachments/assets/a075e905-e511-4bfb-b375-46b017bb1862" />
