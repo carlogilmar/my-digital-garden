@@ -124,6 +124,7 @@ Pharo builds on all of the above and adds:
 
 `Exploratory Programming`
 
+- `Lost in the forest`: Recognize you're lost and it's part of the journey. 
 - `Black Holes`: Black Holes are regions of the system or knowledge space that feel massive, intimidating, or undefined. Instead of rushing in, mark them, orbit them, and slowly illuminate their boundaries.
 - `Rabbit Holes`: Spaces in the system that feels curious and it's a place to understand things.
 - `Turtle Steps`: This is the technique of moving deliberately and observably, making small, reversible changes and inspecting the results. It’s how you build deep understanding without overwhelm.
